@@ -59,6 +59,9 @@ make all
 
 **Note-2:** See [this comment on makefile and compilers](README_APPENDIX.md).
 
+### Method 3: via conda-forge
+LayNii is now also included in the software management system of conda forge. See this [pull-request](https://github.com/conda-forge/staged-recipes/pull/28886#issuecomment-2910625604).
+
 ## Docker image
 
 See https://hub.docker.com/repositories/layerfmri .
